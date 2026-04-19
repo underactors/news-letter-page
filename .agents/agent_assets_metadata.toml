@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "VumC0R5FSzbHt4qZaw67e"
+uri = "file://artifacts/newsletter/public/images/hero-abstract.png"
+type = "image"
+title = "Abstract ink macro photography"
+
+[[generated]]
+id = "TRfkC5IumUHWt0yAPcly4"
+uri = "file://artifacts/newsletter/public/images/magazine-stack.png"
+type = "image"
+title = "Magazine stack on table"
